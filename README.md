@@ -1,3 +1,16 @@
 # ticket_validation_app
 
-This is a Ticket Validation app using Flutter and Dart. This a project I am working for my group events. would like some awesome people to help me in it
+A new Flutter project for techstorm 2.23. Which was meant to scan the QR in the tickets and validate it during time of entry.
+
+## Techstack:
+
+- Flutter , Dart
+- Firebase
+
+## Libraries used
+
+- qr scanner
+
+
+
+
