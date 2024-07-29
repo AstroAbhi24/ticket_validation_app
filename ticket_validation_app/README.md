@@ -2,15 +2,15 @@
 
 A new Flutter project for techstorm 2.23. Which was meant to scan the QR in the tickets and validate it during time of entry.
 
-## Getting Started
+## Techstack:
 
-This project is a starting point for a Flutter application.
+- Flutter , Dart
+- Firebase
 
-A few resources to get you started if this is your first Flutter project:
+## Libraries used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- qr scanner
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
